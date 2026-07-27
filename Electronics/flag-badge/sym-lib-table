@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "sm") (type "KiCad") (uri "D:/flag-badge/Electronics/sm.kicad_sym") (options "") (descr ""))
+)
